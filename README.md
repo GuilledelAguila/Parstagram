@@ -23,4 +23,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/TaszsFkxBB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Creating an Account                                           |log in                
+:------------------------------------------------------------:|:---------------------------------------------------------:
+<img src='http://g.recordit.co/TaszsFkxBB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /><br> | <img src='http://g.recordit.co/mO8XHHWlRz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /<br> 
+
+
